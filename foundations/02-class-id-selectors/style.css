@@ -1,0 +1,19 @@
+.number {
+    background-color: rgb(233, 150, 122);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+
+}
+#dos {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.number.tres {
+    font-size: 24px;
+}
+
+#cuatro {
+    background-color: hwb(160 50% 0%);
+    font-size: 24px;
+    font-weight: bold;
+}
